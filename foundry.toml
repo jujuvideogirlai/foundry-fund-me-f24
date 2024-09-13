@@ -6,6 +6,6 @@ remappings = [
     '@chainlink/contracts/=lib/chainlink-brownie-contracts/contracts/',
 ]
 # ⚠️ allows foundry to run commands directly on your machine. Keep it false as long as possible.
-ffi = true
+ffi = false
 
 # See more config options https://github.com/foundry-rs/foundry/blob/master/crates/config/README.md#all-options
